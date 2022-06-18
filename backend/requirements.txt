@@ -1,0 +1,16 @@
+Flask==1.1.2
+Flask-Cors==3.0.10
+Flask-MySQLdb==1.0.1
+Flask-SQLAlchemy==2.5.1
+mysql-connector-python==8.0.26
+mysqlclient==2.1.0
+pep8==1.7.1
+pipenv==2020.11.15
+pycodestyle==2.7.0
+PyMySQL==1.0.2
+pyserial==3.5
+python-dateutil==2.8.1
+SQLAlchemy==1.4.37
+sqlparse==0.4.2
+virtualenv==20.4.3
+virtualenv-clone==0.5.4

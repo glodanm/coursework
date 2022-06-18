@@ -1,0 +1,9 @@
+/backend/.idea/
+/backend/__pycache__/
+/backend/env/
+
+/simulation/Project Backups
+
+
+*.drawio
+*.docx

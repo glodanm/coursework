@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
+        'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0 auto;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #FFF5EE;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.wrapper {
+    background: #FFF5EE;
+    /* box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.4); */
+    /* border-radius: 20px; */
+    /* max-width: 900px; */
+    /* margin: 50px auto; */
+}
+
+.info{
+    background: #FFF5EE;
+    padding-top: 100px;    
+}
+.header-info {
+    background: #FFF5EE;
+    padding: 15px;
+    /* padding-top: 100px; */
+    margin-left: 200px;
+    margin-right: 200px;
+    max-width: 100%;
+    border-radius: 10px;
+    border-style: dotted;
+}
+
+.button-info{
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    color: black;
+    background-color: skyblue;
+    border: 2px solid #008cba;
+    border-radius: 20px;
+    margin: 4px 2px;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    text-decoration: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+}
+
+.button:hover {
+    background-color: skyblue;
+    color: white;
+}
+
+.button-back{
+    display: inline-block;
+    color: black;
+    background-color: rgb(143, 201, 220);
+    border: 2px solid #008cba;
+    border-radius: 20px;
+    margin: 4px 2px;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    text-decoration: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button-back:hover{
+    background-color: lightblue;
+    color: #fff;
+}
+
+
+
+
+table,
+td,
+th {
+    border: 1px solid;
+}
+
+table {
+    width: 60%;
+    border-collapse: collapse;
+    margin-left: 20%;
+}
+
+td,
+th {
+    padding: 15px;
+}
